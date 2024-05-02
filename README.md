@@ -25,15 +25,22 @@ The inspiration for the site comes from the Tokajer Wellness Panzió.
 
 ### Variables
 ```css
-@import url('global.css');
-@import url('swiper.css');
-@import url('owl.css');
-@import url('preloader.css');
-@import url('font-awesome.css');
-@import url('simple-line-icons.css');
-@import url('animate.css');
-@import url('jquery-ui.css');
-@import url('custom-animate.css');
+/**************************************\
+               bootstrap
+\**************************************/
+@import url("plugins/bootstrap.min.css");
+
+/**************************************\
+                 icons
+\**************************************/
+@import url("plugins/themify-icons.css");
+@import url("plugins/flaticon.css");
+
+/**************************************\
+                selects
+\**************************************/
+@import url("plugins/flatpickr.css");
+@import url("plugins/nice-select2.css");
 ```
 
 ## Copyright and License
