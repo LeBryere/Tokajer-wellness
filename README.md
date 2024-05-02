@@ -8,8 +8,7 @@
 
 ## Preview
 
-[![Resume Preview](preview.jpg)](https://lebryere.github.io/Tokajer-wellness/)
-[![Resume Preview](preview-2.jpg)](https://lebryere.github.io/Tokajer-wellness/)
+[![Resume Preview](preview.png)](https://lebryere.github.io/Tokajer-wellness/)
 
 **[View Live Preview](https://lebryere.github.io/Tokajer-wellness/)**
 
