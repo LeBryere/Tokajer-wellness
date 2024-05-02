@@ -1,0 +1,16 @@
+/**************************************\
+               bootstrap
+\**************************************/
+@import url("plugins/bootstrap.min.css");
+
+/**************************************\
+                 icons
+\**************************************/
+@import url("plugins/themify-icons.css");
+@import url("plugins/flaticon.css");
+
+/**************************************\
+                selects
+\**************************************/
+@import url("plugins/flatpickr.css");
+@import url("plugins/nice-select2.css");
