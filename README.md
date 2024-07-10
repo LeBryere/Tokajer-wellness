@@ -45,4 +45,4 @@ The inspiration for the site comes from the Tokajer Wellness Panzió.
 
 ## Copyright and License
 
-Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Tokajer-wellness/master/LICENSE).
+Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/licence-extended_CC_BY_NC-green%3F%26style%3Dplastic?style=plastic)](https://raw.githubusercontent.com/LeBryere/Tokajer-wellness/master/LICENCE)
