@@ -14,7 +14,7 @@
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Tokajer-wellness/master/LICENSE).
+[![GitHub license](https://img.shields.io/badge/licence-extended_CC_BY_NC-green%3F%26style%3Dplastic?style=plastic)](https://raw.githubusercontent.com/LeBryere/Tokajer-wellness/master/LICENSE).
 
 ## Usage
 
